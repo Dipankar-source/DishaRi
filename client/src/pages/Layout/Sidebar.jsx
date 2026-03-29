@@ -55,7 +55,7 @@ const Sidebar = ({ collapsed, setCollapsed }) => {
               className="ml-3 overflow-hidden whitespace-nowrap"
             >
               <p className="text-white font-bold text-base tracking-tight leading-none">
-                DronaCharya
+                DishaRi
               </p>
               <p className="text-amber-400/70 text-xs mt-0.5 font-medium tracking-wide">
                 Career Ready

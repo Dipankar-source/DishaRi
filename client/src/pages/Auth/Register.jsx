@@ -56,10 +56,10 @@ const Register = () => {
         {/* Left Side - Branding & Info */}
         <div className="hidden lg:flex flex-col justify-center px-8 py-12 lg:w-1/2 lg:pr-16">
           <h1 className="mb-4 text-4xl font-bold text-neutral-900 ">
-            DronaCharya
+            DishaRi
           </h1>
           <p className="mb-6 text-lg text-neutral-600">
-            Shape Your Future with DronaCharya — Your Ultimate Career Preparation Companion!
+            Shape Your Future with DishaRi — Your Ultimate Career Preparation Companion!
           </p>
 
           <div className="space-y-5">
@@ -118,7 +118,7 @@ const Register = () => {
               Create your account
             </h2>
             <p className="mt-2 text-sm text-neutral-600">
-              Join DronaCharya and start preparing for your career today!
+              Join DishaRi and start preparing for your career today!
             </p>
 
             <form className="mt-6" onSubmit={handleSubmit}>

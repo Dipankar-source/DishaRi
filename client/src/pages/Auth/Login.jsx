@@ -43,7 +43,7 @@ const Login = () => {
         <div className="flex items-center justify-center overflow-y-auto px-4 py-12 lg:w-1/2">
           <div className="shadow-input w-full max-w-md rounded-2xl bg-white p-6 md:p-8">
             <h2 className="text-xl font-bold text-neutral-800">
-              Log in to DronaCharya
+              Log in to DishaRi
             </h2>
             <p className="mt-2 text-sm text-neutral-600">
               Enter your credentials to access your account.
@@ -128,7 +128,7 @@ const Login = () => {
         {/* Right Side - Branding & Info */}
         <div className="hidden lg:flex flex-col justify-center px-8 py-12 lg:w-1/2 lg:pl-16">
           <h1 className="mb-4 text-4xl font-bold text-neutral-900">
-            DronaCharya
+            DishaRi
           </h1>
           <p className="mb-6 text-lg text-neutral-600">
             Welcome back — log in to continue your learning journey.
